@@ -1,16 +1,59 @@
-# manajemen_pariwisata
+# manajemen_pariwisata (Responsi 1 Pemrograman Mobile)
 
-A new Flutter project.
+Nama: Reyno Alfarez Marchelian
+NIM: H1D022111
+Shift B
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+1. Login
 
-A few resources to get you started if this is your first Flutter project:
+![Login](login.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Registrasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Registrasi](registrasi.png)
+
+3. Registrasi Berhasil
+
+![Registrasi berhasil](registrasi_berhasil.png)
+
+4. Login Gagal
+
+![login gagal](login_gagal.png)
+
+5. List Harga Tiket
+
+![list tiket](list_tiket.png)
+
+6. Sidemenu
+
+![Sidemenu](sidemenu.png)
+
+7. Detail Tiket
+
+![detail](detail_tiket.png)
+
+8. Edit tiket
+
+![edit](edit.png)
+
+9. List Harga Tiket Setelah Di-edit
+
+![list setelah edit](list_edited.png)
+
+10. Konfirmasi Penghapusan Tiket
+
+![delete](delete.png)
+
+11. List Harga Tiket Setelah Dihapus
+
+![list setelah delete](list_deleted.png)
+
+12. Tambah tiket
+
+![tambah](tambah.png)
+
+13. List Harga Tiket Setelah Ditambah
+
+![ditambah](list_new.png)
